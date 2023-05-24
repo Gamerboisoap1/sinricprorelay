@@ -8,7 +8,7 @@ Real-time status updates of the relays.
 Easy integration with Sinric Pro platform
 # Installation
 To set up this project, follow these steps:
-Install the required libraries:
+Install the required libraries:<br>
 SinricPro (https://github.com/sinricpro/esp8266-esp32-sdk)<br>
 ESP8266WiFi (https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)<br>
 ArduinoJson (https://github.com/bblanchon/ArduinoJson)<br>
