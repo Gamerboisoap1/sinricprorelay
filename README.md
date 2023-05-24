@@ -9,9 +9,9 @@ Easy integration with Sinric Pro platform
 # Installation
 To set up this project, follow these steps:
 Install the required libraries:
-SinricPro (https://github.com/sinricpro/esp8266-esp32-sdk)
-ESP8266WiFi (https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)
-ArduinoJson (https://github.com/bblanchon/ArduinoJson)
-
+SinricPro (https://github.com/sinricpro/esp8266-esp32-sdk)<br>
+ESP8266WiFi (https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)<br>
+ArduinoJson (https://github.com/bblanchon/ArduinoJson)<br>
+<br>
 Change the values of **wifissid** **wifipass**
-**Appkey** and **Appsecret** and last ** SWITCH_ID_1 **
+**Appkey** and **Appsecret** and last **SWITCH_ID_1**
